@@ -1,5 +1,5 @@
 {
-  "name": "todo-app-with-priority",
+  "name": "cypress",
   "homepage": "https://AleemAlam.github.io/my-todo-app",
   "version": "0.1.0",
   "private": true,
@@ -7,7 +7,6 @@
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.8.3",
-    "cypress": "^9.4.1",
     "gh-pages": "^3.1.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
@@ -40,5 +39,20 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavya-2021/student-todo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kavya-2021/student-todo/issues"
+  },
+  "devDependencies": {
+    "cypress": "^9.4.1"
   }
 }
